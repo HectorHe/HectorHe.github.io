@@ -92,3 +92,4 @@ ENV/
 
 # pelican
 output/
+plugins/
